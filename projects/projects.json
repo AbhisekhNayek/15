@@ -2,7 +2,7 @@
   {
     "name": "The Coca-Cola Company",
     "desc": " ",
-    "image": "assets\images\projects\cocacola.png",
+    "image": "cocacola.png",
     "category": "basicweb",
     "links": {
       "view": "#",
