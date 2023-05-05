@@ -31,7 +31,8 @@ document.addEventListener('visibilitychange',
 
 
 // fetch projects start
-function getProjects() {
+function getProjects() 
+{
     return fetch("projects.json")
         .then(response => response.json())
         .then(data => {
@@ -40,7 +41,8 @@ function getProjects() {
 }
 
 
-function showProjects(projects) {
+function showProjects(projects) 
+{
     let projectsContainer = document.querySelector(".work .box-container");
     let projectsHTML = "";
     projects.forEach(project => {
@@ -65,24 +67,6 @@ function showProjects(projects) {
     });
     projectsContainer.innerHTML = projectsHTML;
 
-    // vanilla tilt.js
-    // VanillaTilt.init(document.querySelectorAll(".tilt"), {
-    //     max: 20,
-    // });
-    // // vanilla tilt.js  
-
-    // /* ===== SCROLL REVEAL ANIMATION ===== */
-    // const srtop = ScrollReveal({
-    //     origin: 'bottom',
-    //     distance: '80px',
-    //     duration: 1000,
-    //     reset: true
-    // });
-
-    // /* SCROLL PROJECTS */
-    // srtop.reveal('.work .box', { interval: 200 });
-
-    // isotope filter products
     var $grid = $('.box-container').isotope({
         itemSelector: '.grid-item',
         layoutMode: 'fitRows',
