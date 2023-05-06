@@ -41,19 +41,14 @@ function getProjects()
 }
 
 
-function showProjects(projects) 
-{
+function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
-    let projectsHTML = "index.html";
+    let projectsHTML = "";
     projects.forEach(project => {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-<<<<<<< HEAD
-      <img draggable="false" src="./projects${project.image}.png" alt="project" />
-=======
-      <img draggable="true" src="main/assets/images/projects/atm.png" alt="project" />
->>>>>>> 9c571e027089b0588f2b5094f298bf2c1d22b4e7
+      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
