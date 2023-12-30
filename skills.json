@@ -94,5 +94,29 @@
     {
         "name": "React Native",
         "icon": "https://img.icons8.com/color/48/000000/react-native.png"
-    } 
+    } ,
+    {
+    "name": "Chakra UI",
+    "icon": "https://path/to/chakra-ui-icon.png"
+    },
+    {
+    "name": "Pug",
+    "icon": "https://path/to/pug-icon.png"
+    },
+    {
+    "name": "TypeScript",
+    "icon": "https://path/to/typescript-icon.png"
+    },
+    {
+    "name": "Netlify",
+    "icon": "https://path/to/netlify-icon.png"
+    },
+    {
+    "name": "Figma",
+    "icon": "https://path/to/figma-icon.png"
+    },
+    {
+    "name": "Kali Linux",
+    "icon": "https://path/to/kali-linux-icon.png"
+    }
 ]
