@@ -27,7 +27,6 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
-   
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
@@ -53,16 +52,16 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Docker",
-        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+        "name": "Next JS",
+        "icon": "https://img.icons8.com/color/48/000000/nextjs.png"
     },
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     },
     {
-        "name": "AI",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/for-experienced.png"
+    "name": "SCSS",
+    "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
         "name": "ML",
@@ -80,21 +79,20 @@
         "name": "Git Lab",
         "icon": "https://img.icons8.com/color/48/000000/gitlab.png"
     },
-    
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/color/48/000000/php.png"
-    } ,
+    "name": "Firebase",
+    "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
     {
-        "name": "JSON",
-        "icon": "https://img.icons8.com/color/48/000000/json.png"
-    } ,
+    "name": "Tailwind CSS",
+    "icon": "https://img.icons8.com/color/48/000000/tailwind-css.png"
+    },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/color/48/000000/github.png"
     } ,
     {
-        "name": "Kubernetes",
-        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+        "name": "React Native",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
     } 
 ]
