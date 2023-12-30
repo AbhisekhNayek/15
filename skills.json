@@ -96,27 +96,27 @@
         "icon": "https://img.icons8.com/color/48/000000/react-native.png"
     } ,
     {
-    "name": "Chakra UI",
-    "icon": "https://path/to/chakra-ui-icon.png"
+        "name": "Chakra UI",
+        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
     },
     {
-    "name": "Pug",
-    "icon": "https://path/to/pug-icon.png"
+        "name": "Pug",
+        "icon": "https://img.icons8.com/color/48/000000/pug.png"
     },
     {
-    "name": "TypeScript",
-    "icon": "https://path/to/typescript-icon.png"
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
     },
     {
-    "name": "Netlify",
-    "icon": "https://path/to/netlify-icon.png"
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/color/48/000000/netlify.png"
     },
     {
-    "name": "Figma",
-    "icon": "https://path/to/figma-icon.png"
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
     },
     {
-    "name": "Kali Linux",
-    "icon": "https://path/to/kali-linux-icon.png"
+        "name": "Kali Linux",
+        "icon": "https://img.icons8.com/color/48/000000/kali-linux.png"
     }
 ]
